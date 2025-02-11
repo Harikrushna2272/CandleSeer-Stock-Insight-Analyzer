@@ -21,4 +21,4 @@ candlestick_patterns = ['Morning Star', 'Evening Star', 'Doji', 'Hammer', 'Shoot
 detected_patterns = data[(data[candlestick_patterns] != 0).any(axis=1)]
 
 # Print the rows with detected patterns
-print(detected_patterns)
+# print(detected_patterns)
