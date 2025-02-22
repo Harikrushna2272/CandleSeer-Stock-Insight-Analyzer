@@ -9,3 +9,6 @@ Key features:
 - Candlestick Pattern Detection: Identifies patterns such as Morning Star, Hammer, Engulfing, and more for informed decision-making.
 - Consolidation and Breakout Analysis: Highlights stocks consolidating in a tight range or breaking out.
 - Web Interface: User-friendly interface for real-time scanning of candlestick patterns across multiple stocks.
+
+
+Reference : https://github.com/hackingthemarkets/candlestick-screener
