@@ -10,7 +10,4 @@ Key features:
 - Consolidation and Breakout Analysis: Highlights stocks consolidating in a tight range or breaking out.
 - Web Interface: User-friendly interface for real-time scanning of candlestick patterns across multiple stocks.
 
-
-Reference : https://github.com/hackingthemarkets/candlestick-screener
-
 Progress : in process
